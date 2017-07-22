@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/Venus/Documents/Visual Studio 2015/Projects/BetterNag/BetterNagContent/graphics/teddybear0.png</File>
+    <File>D:/Venus/Documents/Visual Studio 2015/Projects/BetterNag/BetterNagContent/graphics/teddybear1.png</File>
+    <File>D:/Venus/Documents/Visual Studio 2015/Projects/BetterNag/BetterNagContent/graphics/teddybear2.png</File>
+  </SourceFiles>
+</SourceFileCollection>
