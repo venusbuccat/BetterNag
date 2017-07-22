@@ -123,6 +123,8 @@ namespace BetterNag
             spriteBatch.End(); 
 
             base.Draw(gameTime);
+			
+			//  entered a cooment for 2nd commit on tortoisegit
         }
     }
 }
